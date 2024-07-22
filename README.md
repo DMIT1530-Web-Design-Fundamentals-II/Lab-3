@@ -12,8 +12,6 @@ Clone a copy of this repository to your device so that you can develop it locall
 
 For this Lab, you will create a website with a fully responsive navigation. In the smallest (mobile) view, the user should be able to show and hide (toggle) the navigation with the click of a button. In the largest (desktop) view, the user should be able to hover or tab over a dropdown menu. 
 
-This Lab will be  a Code-A-Long where you are expected to put in the final touches.
-
 ---
 
 ## The Build Methodology
